@@ -1,0 +1,8 @@
++/- Rviz config has a typo, makes the panels unusable. Delete your default.rviz to generate a fresh one.
+++++ Turtle marker complete
+++++ both turtles have a marker
++ markers rotate
++ Code runs out of the box 
+
+
+11/12
